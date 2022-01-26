@@ -1,2 +1,5 @@
 # environment 
 .env
+
+#Ignore Ipynb_checkpoints
+.ipynb_checkpoints
