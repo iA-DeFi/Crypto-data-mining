@@ -1,3 +1,2 @@
 # Crypto-data-mining
 
-## Packages
