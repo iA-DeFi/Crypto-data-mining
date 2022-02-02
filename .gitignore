@@ -1,6 +1,6 @@
 # environment 
 .env
 .DS_Store
-~/data
+/data
 #Ignore Ipynb_checkpoints
 .ipynb_checkpoints
